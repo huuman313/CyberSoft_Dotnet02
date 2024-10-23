@@ -1,0 +1,14 @@
+C:\Users\huuman313\Desktop\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\baitap_session2\bin\Debug\net8.0\baitap_session2.exe
+C:\Users\huuman313\Desktop\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\baitap_session2\bin\Debug\net8.0\baitap_session2.deps.json
+C:\Users\huuman313\Desktop\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\baitap_session2\bin\Debug\net8.0\baitap_session2.runtimeconfig.json
+C:\Users\huuman313\Desktop\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\baitap_session2\bin\Debug\net8.0\baitap_session2.dll
+C:\Users\huuman313\Desktop\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\baitap_session2\bin\Debug\net8.0\baitap_session2.pdb
+C:\Users\huuman313\Desktop\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\baitap_session2\obj\Debug\net8.0\baitap_session2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huuman313\Desktop\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\baitap_session2\obj\Debug\net8.0\baitap_session2.AssemblyInfoInputs.cache
+C:\Users\huuman313\Desktop\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\baitap_session2\obj\Debug\net8.0\baitap_session2.AssemblyInfo.cs
+C:\Users\huuman313\Desktop\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\baitap_session2\obj\Debug\net8.0\baitap_session2.csproj.CoreCompileInputs.cache
+C:\Users\huuman313\Desktop\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\baitap_session2\obj\Debug\net8.0\baitap_session2.dll
+C:\Users\huuman313\Desktop\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\baitap_session2\obj\Debug\net8.0\refint\baitap_session2.dll
+C:\Users\huuman313\Desktop\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\baitap_session2\obj\Debug\net8.0\baitap_session2.pdb
+C:\Users\huuman313\Desktop\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\baitap_session2\obj\Debug\net8.0\baitap_session2.genruntimeconfig.cache
+C:\Users\huuman313\Desktop\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\baitap_session2\obj\Debug\net8.0\ref\baitap_session2.dll
