@@ -1,0 +1,15 @@
+C:\Users\huuman313\Desktop\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_3\bin\Debug\net8.0\session_3.exe
+C:\Users\huuman313\Desktop\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_3\bin\Debug\net8.0\session_3.deps.json
+C:\Users\huuman313\Desktop\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_3\bin\Debug\net8.0\session_3.runtimeconfig.json
+C:\Users\huuman313\Desktop\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_3\bin\Debug\net8.0\session_3.dll
+C:\Users\huuman313\Desktop\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_3\bin\Debug\net8.0\session_3.pdb
+C:\Users\huuman313\Desktop\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_3\obj\Debug\net8.0\session_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huuman313\Desktop\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_3\obj\Debug\net8.0\session_3.AssemblyInfoInputs.cache
+C:\Users\huuman313\Desktop\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_3\obj\Debug\net8.0\session_3.AssemblyInfo.cs
+C:\Users\huuman313\Desktop\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_3\obj\Debug\net8.0\session_3.csproj.CoreCompileInputs.cache
+C:\Users\huuman313\Desktop\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_3\obj\Debug\net8.0\session_3.sourcelink.json
+C:\Users\huuman313\Desktop\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_3\obj\Debug\net8.0\session_3.dll
+C:\Users\huuman313\Desktop\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_3\obj\Debug\net8.0\refint\session_3.dll
+C:\Users\huuman313\Desktop\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_3\obj\Debug\net8.0\session_3.pdb
+C:\Users\huuman313\Desktop\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_3\obj\Debug\net8.0\session_3.genruntimeconfig.cache
+C:\Users\huuman313\Desktop\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_3\obj\Debug\net8.0\ref\session_3.dll
