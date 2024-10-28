@@ -153,31 +153,49 @@ Console.WriteLine("Hello, World!");
 
 #region nhập chiều dài và rộng, in ra hình chữ nhật dấu * rỗng ở giữa
 
-// ***********************
-// *                     *
-// *                     *
-// ***********************
-
-Console.Write("Mời bạn nhập chiều dài: ");
-int chieudai = Convert.ToInt32(Console.ReadLine());
-Console.Write("Mời bạn nhập chiều rộng: ");
-int chieurong = Convert.ToInt32(Console.ReadLine());
-for(int i = 0; i < chieurong; i++)
-{
-    for(int j = 0; j < chieudai; j++)
-    {   
-        if (i == 0 || i == chieurong - 1 || j == 0 || j == chieudai - 1)
-        {
-            Console.Write("* ");
-        }
-            else
-            {
-                Console.Write("  ");
-            }
-    }
-    Console.WriteLine();  
-}
+// // ***********************
+// // *                     *
+// // *                     *
+// // ***********************
+//
+// Console.Write("Mời bạn nhập chiều dài: ");
+// int chieudai = Convert.ToInt32(Console.ReadLine());
+// Console.Write("Mời bạn nhập chiều rộng: ");
+// int chieurong = Convert.ToInt32(Console.ReadLine());
+// for(int i = 0; i < chieurong; i++)
+// {
+//     for(int j = 0; j < chieudai; j++)
+//     {   
+//         if (i == 0 || i == chieurong - 1 || j == 0 || j == chieudai - 1)
+//         {
+//             Console.Write("* ");
+//         }
+//             else
+//             {
+//                 Console.Write("  ");
+//             }
+//     }
+//     Console.WriteLine();  
+// }
 
 #endregion
+
+#region MyRegion
+Console.Write("Mời bạn nhập vào cạnh tam giác vuông cân: ");
+int canh = Convert.ToInt32(Console.ReadLine());
+for (int i = 0; i < canh; i++)
+{
+    for (int j = 0; j < i + 1; j++)
+    {
+        Console.Write("* ");
+    }
+    Console.WriteLine();
+}
+
+
+#endregion
+
+
+
 
 
