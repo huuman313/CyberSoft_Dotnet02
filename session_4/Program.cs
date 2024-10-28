@@ -158,5 +158,26 @@ Console.WriteLine("Hello, World!");
 // *                     *
 // ***********************
 
+Console.Write("Mời bạn nhập chiều dài: ");
+int chieudai = Convert.ToInt32(Console.ReadLine());
+Console.Write("Mời bạn nhập chiều rộng: ");
+int chieurong = Convert.ToInt32(Console.ReadLine());
+for(int i = 0; i < chieurong; i++)
+{
+    for(int j = 0; j < chieudai; j++)
+    {   
+        if (i == 0 || i == chieurong - 1 || j == 0 || j == chieudai - 1)
+        {
+            Console.Write("* ");
+        }
+            else
+            {
+                Console.Write("  ");
+            }
+    }
+    Console.WriteLine();  
+}
+
 #endregion
+
 
