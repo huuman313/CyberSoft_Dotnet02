@@ -1,6 +1,6 @@
 class Bai1 {
-
-    public static int TinhTongSoLon50 (List<int> numbers) {
+    
+        public static int TinhTongSoLon50 (List<int> numbers) {
         int sum = 0;
         foreach(int number in numbers) {
             if (number >= 50) {
