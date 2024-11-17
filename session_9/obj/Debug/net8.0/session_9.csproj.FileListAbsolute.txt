@@ -1,0 +1,15 @@
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_9\bin\Debug\net8.0\session_9.exe
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_9\bin\Debug\net8.0\session_9.deps.json
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_9\bin\Debug\net8.0\session_9.runtimeconfig.json
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_9\bin\Debug\net8.0\session_9.dll
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_9\bin\Debug\net8.0\session_9.pdb
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_9\obj\Debug\net8.0\session_9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_9\obj\Debug\net8.0\session_9.AssemblyInfoInputs.cache
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_9\obj\Debug\net8.0\session_9.AssemblyInfo.cs
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_9\obj\Debug\net8.0\session_9.csproj.CoreCompileInputs.cache
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_9\obj\Debug\net8.0\session_9.sourcelink.json
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_9\obj\Debug\net8.0\session_9.dll
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_9\obj\Debug\net8.0\refint\session_9.dll
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_9\obj\Debug\net8.0\session_9.pdb
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_9\obj\Debug\net8.0\session_9.genruntimeconfig.cache
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_9\obj\Debug\net8.0\ref\session_9.dll
