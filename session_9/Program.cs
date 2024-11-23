@@ -8,21 +8,21 @@
         // các biến được gọi là các thuộc tính
         // chữ cái đầu tiên của class phải là in hoa (khi tạo new file .cs)
         #region 
-        BaiViet baiviet1 = new BaiViet();
-        baiviet1.tieuDe = "111 sđa sad sads ad sad";
-        baiviet1.hinhAnh = "hinh1.png";
-        baiviet1.noiDung = "111 dsad sad sadsadsa";
-        // Console.WriteLine($"Bài viết 1: {baiviet1.hinhAnh}, {baiviet1.noiDung}, {baiviet1.tieuDe}");
-        baiviet1.xuatThongTin();
-        Console.WriteLine("=====================");
-
-        BaiViet baiviet2 = new BaiViet();
-        baiviet2.tieuDe = "222 sđa sad ssad sad ádads ad sad";
-        baiviet2.hinhAnh = "hinh2.png";
-        baiviet2.noiDung = "222 dsad dsa đấ dá sad sadsadsa";
-        // Console.WriteLine($"Bài viết 2: {baiviet2.hinhAnh}, {baiviet2.noiDung}, {baiviet2.tieuDe}");
-        baiviet2.xuatThongTin();
-        Console.WriteLine("=====================");
+        // BaiViet baiviet1 = new BaiViet();
+        // baiviet1.tieuDe = "111 sđa sad sads ad sad";
+        // baiviet1.hinhAnh = "hinh1.png";
+        // baiviet1.noiDung = "111 dsad sad sadsadsa";
+        // // Console.WriteLine($"Bài viết 1: {baiviet1.hinhAnh}, {baiviet1.noiDung}, {baiviet1.tieuDe}");
+        // baiviet1.xuatThongTin();
+        // Console.WriteLine("=====================");
+        //
+        // BaiViet baiviet2 = new BaiViet();
+        // baiviet2.tieuDe = "222 sđa sad ssad sad ádads ad sad";
+        // baiviet2.hinhAnh = "hinh2.png";
+        // baiviet2.noiDung = "222 dsad dsa đấ dá sad sadsadsa";
+        // // Console.WriteLine($"Bài viết 2: {baiviet2.hinhAnh}, {baiviet2.noiDung}, {baiviet2.tieuDe}");
+        // baiviet2.xuatThongTin();
+        // Console.WriteLine("=====================");
 
         // BaiViet baiviet3;
         // baiviet3 = baiviet1;
@@ -31,21 +31,21 @@
         // Console.WriteLine($"Bài viết 3: {baiviet1.hinhAnh}, {baiviet3.noiDung}, {baiviet3.tieuDe}");
         // Console.WriteLine("=====================");
 
-        BaiViet baiviet3 = new BaiViet(baiviet1);
-        Console.WriteLine($"kiểm tra: {baiviet3 == baiviet1}");
-        baiviet3.hinhAnh = "hinh3.png";
-        Console.WriteLine($"Bài viết 3: {baiviet1.hinhAnh}, {baiviet3.noiDung}, {baiviet3.tieuDe}");
-        Console.WriteLine("=====================");
-
-        BaiViet baiviet4 = new BaiViet();
-        baiviet4.hinhAnh = baiviet1.hinhAnh;
-        baiviet4.noiDung = baiviet1.noiDung;
-        baiviet4.tieuDe = baiviet1.tieuDe;
-        Console.WriteLine($"kiểm tra: {baiviet4 == baiviet1}");
-        Console.WriteLine("=====================");
-
-        BaiViet baiviet5 = new BaiViet();
-        Console.WriteLine($"Giá trị mặc định của thuộc tính noiDung là: {baiviet5.noiDung}");
+        // BaiViet baiviet3 = new BaiViet(baiviet1);
+        // Console.WriteLine($"kiểm tra: {baiviet3 == baiviet1}");
+        // baiviet3.hinhAnh = "hinh3.png";
+        // Console.WriteLine($"Bài viết 3: {baiviet1.hinhAnh}, {baiviet3.noiDung}, {baiviet3.tieuDe}");
+        // Console.WriteLine("=====================");
+        //
+        // BaiViet baiviet4 = new BaiViet();
+        // baiviet4.hinhAnh = baiviet1.hinhAnh;
+        // baiviet4.noiDung = baiviet1.noiDung;
+        // baiviet4.tieuDe = baiviet1.tieuDe;
+        // Console.WriteLine($"kiểm tra: {baiviet4 == baiviet1}");
+        // Console.WriteLine("=====================");
+        //
+        // BaiViet baiviet5 = new BaiViet();
+        // Console.WriteLine($"Giá trị mặc định của thuộc tính noiDung là: {baiviet5.noiDung}");
         
         #endregion
 
@@ -83,12 +83,31 @@
         // bài tập về nhà
         // Bài 1: tạo đối tượng sản phẩm (mã sp, tên sp, giá bán, số lượng tồn kho)
         // nhập và xuất thông tin sp
-
+    #region        
+        // Console.WriteLine("Bài 1: tạo đối tượng sp, nhập và xuất thông tin sp");
+        // SanPham sp1 = new SanPham();
+        // sp1.nhapthongtin();
+        // sp1.xuatThongTin();
+        // Console.WriteLine("================");
+        // SanPham sp2 = new SanPham();
+        // sp2.nhapthongtin();
+        // sp2.xuatThongTin();
+        // Console.WriteLine("================");
+        
+    #endregion
+        
+        
         // Bài 2: nhập thông tin chiều dài và rộng hình chữ nhật => tính chu vi và diện tích
         // length (chiều dài)
         // width (chiều rộng)
         // tính diện tích (area) và chu vi (perimeter)
-
+    #region 
+        Console.WriteLine("Bài 2: ");
+        TinhToan test1 = new TinhToan();
+        test1.nhapthongtin();
+        test1.xuatThongTin();
+        Console.WriteLine("================");
+    #endregion
     }
 }
 
