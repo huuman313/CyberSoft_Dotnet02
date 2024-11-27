@@ -16,6 +16,8 @@ class WordCount {
             }
         }
         Console.WriteLine("Số lần xuất hiện từng từ là: ");
+        // C2: foreach(var pointer in wordCounts)
+        // var: kiểu dữ liệu suy diễn, thường sử dụng trong vòng lặp
         foreach(KeyValuePair<string, int> pointer in wordCounts) {
             Console.WriteLine($"{pointer.Key}: {pointer.Value}");
         }

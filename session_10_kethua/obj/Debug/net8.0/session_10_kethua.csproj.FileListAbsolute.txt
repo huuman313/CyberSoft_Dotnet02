@@ -1,0 +1,15 @@
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_10_kethua\obj\Debug\net8.0\session_10_kethua.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_10_kethua\obj\Debug\net8.0\session_10_kethua.AssemblyInfoInputs.cache
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_10_kethua\obj\Debug\net8.0\session_10_kethua.AssemblyInfo.cs
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_10_kethua\obj\Debug\net8.0\session_10_kethua.csproj.CoreCompileInputs.cache
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_10_kethua\obj\Debug\net8.0\session_10_kethua.sourcelink.json
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_10_kethua\bin\Debug\net8.0\session_10_kethua.exe
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_10_kethua\bin\Debug\net8.0\session_10_kethua.deps.json
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_10_kethua\bin\Debug\net8.0\session_10_kethua.runtimeconfig.json
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_10_kethua\bin\Debug\net8.0\session_10_kethua.dll
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_10_kethua\bin\Debug\net8.0\session_10_kethua.pdb
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_10_kethua\obj\Debug\net8.0\session_10_kethua.dll
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_10_kethua\obj\Debug\net8.0\refint\session_10_kethua.dll
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_10_kethua\obj\Debug\net8.0\session_10_kethua.pdb
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_10_kethua\obj\Debug\net8.0\session_10_kethua.genruntimeconfig.cache
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\session_10_kethua\obj\Debug\net8.0\ref\session_10_kethua.dll

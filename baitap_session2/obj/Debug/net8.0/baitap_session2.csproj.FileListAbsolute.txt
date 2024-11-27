@@ -12,3 +12,4 @@ C:\Users\huuman313\Desktop\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\baitap_sess
 C:\Users\huuman313\Desktop\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\baitap_session2\obj\Debug\net8.0\baitap_session2.pdb
 C:\Users\huuman313\Desktop\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\baitap_session2\obj\Debug\net8.0\baitap_session2.genruntimeconfig.cache
 C:\Users\huuman313\Desktop\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\baitap_session2\obj\Debug\net8.0\ref\baitap_session2.dll
+C:\Users\huuman313\Desktop\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\baitap_session2\obj\Debug\net8.0\baitap_session2.sourcelink.json

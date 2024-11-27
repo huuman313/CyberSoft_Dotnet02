@@ -180,7 +180,7 @@ Console.WriteLine("Hello, World!");
 
 #endregion
 
-#region MyRegion
+#region vẽ tam giác vuông cân
 Console.Write("Mời bạn nhập vào cạnh tam giác vuông cân: ");
 int canh = Convert.ToInt32(Console.ReadLine());
 for (int i = 0; i < canh; i++)

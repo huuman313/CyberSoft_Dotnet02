@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ciber Soft\\cyber_sharp\\CyberSoft_Dotnet02\\test\\luyentap_session8\\luyentap_session8.csproj": {}
+    "D:\\Ciber Soft\\cyber_sharp\\CyberSoft_Dotnet02\\TEST\\luyentap_session8\\luyentap_session8.csproj": {}
   },
   "projects": {
-    "D:\\Ciber Soft\\cyber_sharp\\CyberSoft_Dotnet02\\test\\luyentap_session8\\luyentap_session8.csproj": {
+    "D:\\Ciber Soft\\cyber_sharp\\CyberSoft_Dotnet02\\TEST\\luyentap_session8\\luyentap_session8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ciber Soft\\cyber_sharp\\CyberSoft_Dotnet02\\test\\luyentap_session8\\luyentap_session8.csproj",
+        "projectUniqueName": "D:\\Ciber Soft\\cyber_sharp\\CyberSoft_Dotnet02\\TEST\\luyentap_session8\\luyentap_session8.csproj",
         "projectName": "luyentap_session8",
-        "projectPath": "D:\\Ciber Soft\\cyber_sharp\\CyberSoft_Dotnet02\\test\\luyentap_session8\\luyentap_session8.csproj",
+        "projectPath": "D:\\Ciber Soft\\cyber_sharp\\CyberSoft_Dotnet02\\TEST\\luyentap_session8\\luyentap_session8.csproj",
         "packagesPath": "C:\\Users\\huuman313\\.nuget\\packages\\",
-        "outputPath": "D:\\Ciber Soft\\cyber_sharp\\CyberSoft_Dotnet02\\test\\luyentap_session8\\obj\\",
+        "outputPath": "D:\\Ciber Soft\\cyber_sharp\\CyberSoft_Dotnet02\\TEST\\luyentap_session8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\huuman313\\AppData\\Roaming\\NuGet\\NuGet.Config"

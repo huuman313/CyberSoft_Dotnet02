@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\huuman313\\Desktop\\Ciber Soft\\cyber_sharp\\CyberSoft_Dotnet02\\session_3\\session_3.csproj": {}
+    "D:\\Ciber Soft\\cyber_sharp\\CyberSoft_Dotnet02\\session_3\\session_3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\huuman313\\Desktop\\Ciber Soft\\cyber_sharp\\CyberSoft_Dotnet02\\session_3\\session_3.csproj": {
+    "D:\\Ciber Soft\\cyber_sharp\\CyberSoft_Dotnet02\\session_3\\session_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\huuman313\\Desktop\\Ciber Soft\\cyber_sharp\\CyberSoft_Dotnet02\\session_3\\session_3.csproj",
+        "projectUniqueName": "D:\\Ciber Soft\\cyber_sharp\\CyberSoft_Dotnet02\\session_3\\session_3.csproj",
         "projectName": "session_3",
-        "projectPath": "C:\\Users\\huuman313\\Desktop\\Ciber Soft\\cyber_sharp\\CyberSoft_Dotnet02\\session_3\\session_3.csproj",
+        "projectPath": "D:\\Ciber Soft\\cyber_sharp\\CyberSoft_Dotnet02\\session_3\\session_3.csproj",
         "packagesPath": "C:\\Users\\huuman313\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\huuman313\\Desktop\\Ciber Soft\\cyber_sharp\\CyberSoft_Dotnet02\\session_3\\obj\\",
+        "outputPath": "D:\\Ciber Soft\\cyber_sharp\\CyberSoft_Dotnet02\\session_3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\huuman313\\AppData\\Roaming\\NuGet\\NuGet.Config"

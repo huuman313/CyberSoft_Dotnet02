@@ -15,6 +15,7 @@ class Method {
                 return false;
             }
         }
+    
         return true;
     }
 

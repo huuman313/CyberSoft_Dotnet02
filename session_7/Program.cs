@@ -117,43 +117,44 @@
     #endregion
 
     #region tìm hiểu về Dictionary trong Collection
-    // Console.WriteLine("tìm hiểu về Dictionary trong Collection");
-    // Dictionary<string, string> dic = new Dictionary<string, string>();
-    // // Thêm key-value vào dic
-    // dic.Add("Alice", "test");
-    // dic["Do"] = "Nam Trung";
+    Console.WriteLine("tìm hiểu về Dictionary trong Collection");
+    Dictionary<string, string> dic = new Dictionary<string, string>();
+    // Thêm key-value vào dic
+    dic.Add("Alice", "test");
+    dic["Do"] = "Nam Trung";
 
-    // // Duyệt dic
-    // foreach(KeyValuePair<string, string> pointer in dic) {
-    //     // pointer: key-value
-    //     Console.WriteLine($"Họ: {pointer.Key}, Tên: {pointer.Value}");
-    // }
+    // Duyệt dic
+    foreach(KeyValuePair<string, string> pointer in dic) {
+        // pointer: key-value
+        Console.WriteLine($"Họ: {pointer.Key}, Tên: {pointer.Value}");
+    }
 
-    // // Chỉ duyệt mỗi key hoặc value => y như bên list
-    // // chỉ duyệt key
-    // Console.WriteLine("Danh sách các key là:");
-    // foreach(string str in dic.Keys) {
-    //     Console.WriteLine(str);
-    // }
+    // Chỉ duyệt mỗi key hoặc value => y như bên list
+    // chỉ duyệt key
+    Console.WriteLine("Danh sách các key là:");
+    foreach(string str in dic.Keys) {
+        Console.WriteLine(str);
+    }
 
-    // for(int i = 0; i < dic.Keys.Count; i++) {
-    //     Console.WriteLine(dic.Keys.ElementAt(i));
-    // }
+    for(int i = 0; i < dic.Keys.Count; i++) {
+        Console.WriteLine(dic.Keys.ElementAt(i));
+    }
 
-    // // update value cho dic
-    // dic["Alice"] = "Johnon";
-    // Console.WriteLine("Dic sau khi update: ");
-    // foreach(KeyValuePair<string, string> pointer in dic) {
-    //     Console.WriteLine($"Họ: {pointer.Key}, Tên: {pointer.Value}");
-    // }
+    // update value cho dic
+    dic["Alice"] = "Johnon";
+    Console.WriteLine("Dic sau khi update: ");
+    foreach(KeyValuePair<string, string> pointer in dic) {
+        Console.WriteLine($"Họ: {pointer.Key}, Tên: {pointer.Value}");
+    }
 
-    // // xóa key-value trong dic
-    // dic.Remove("Alice");
-    // Console.WriteLine("Dic sau khi remove: ");
-    // foreach(KeyValuePair<string, string> pointer in dic) {
-    //     Console.WriteLine($"Họ: {pointer.Key}, Tên: {pointer.Value}");
-    // }
-
+    // xóa key-value trong dic
+    dic.Remove("Alice");
+    Console.WriteLine("Dic sau khi remove: ");
+    foreach(KeyValuePair<string, string> pointer in dic) {
+        Console.WriteLine($"Họ: {pointer.Key}, Tên: {pointer.Value}");
+    }
+    
+    Console.WriteLine($"Giá trị {dic["Do"]}");
 
     #endregion
        

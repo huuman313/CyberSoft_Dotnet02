@@ -1,0 +1,15 @@
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\test\bin\Debug\net8.0\TEST.exe
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\test\bin\Debug\net8.0\TEST.deps.json
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\test\bin\Debug\net8.0\TEST.runtimeconfig.json
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\test\bin\Debug\net8.0\TEST.dll
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\test\bin\Debug\net8.0\TEST.pdb
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\test\obj\Debug\net8.0\TEST.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\test\obj\Debug\net8.0\TEST.AssemblyInfoInputs.cache
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\test\obj\Debug\net8.0\TEST.AssemblyInfo.cs
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\test\obj\Debug\net8.0\TEST.csproj.CoreCompileInputs.cache
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\test\obj\Debug\net8.0\TEST.sourcelink.json
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\test\obj\Debug\net8.0\TEST.dll
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\test\obj\Debug\net8.0\refint\TEST.dll
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\test\obj\Debug\net8.0\TEST.pdb
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\test\obj\Debug\net8.0\TEST.genruntimeconfig.cache
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\test\obj\Debug\net8.0\ref\TEST.dll

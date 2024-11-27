@@ -76,35 +76,35 @@ Console.WriteLine("Hello, World!");
 // }
 
 #region 
-// // Nhập điểm trung bình của học sinh. Xuất ra học lực của học sinh đó
-// // >= 9: Xuất sắc
-// // 8 <= điểm < 9: giỏi
-// // 6.5 <= điểm < 8: khá
-// // 5 <= điểm < 6.5: trung bình
-// // 3.5 <= điểm < 5: yếu
-// // < 3.5: quá kém
-// Console.WriteLine("Nhập điểm trung bình của học sinh:");
-// string diemtb = Console.ReadLine();
-// double fdiemtb = Convert.ToDouble(diemtb);
-// if(fdiemtb >= 9) {
-//     Console.WriteLine("Xuất sắc");
-// } else if (fdiemtb < 9 && fdiemtb >= 8)
-// // kết hợp 2 hoặc nhiều điều kiện
-// // && => và
-// // || => hoặc 
-// // 8 <= diem < 9 (trong ngôn ngữ thực tế)
-// // 8 <= diem && diem < 9 (trong lập trình)
-// {
-//     Console.WriteLine("Giỏi");
-// } else if (fdiemtb >= 6.5 && fdiemtb < 8) {
-//     Console.WriteLine("Khá");
-// } else if (5 <= fdiemtb && fdiemtb < 6.5) {
-//     Console.WriteLine("Trung bình");
-// } else if (3.5 <= fdiemtb && fdiemtb < 5) {
-//     Console.WriteLine("Yếu");
-// } else {
-//     Console.WriteLine("Quá kém"); 
-// }
+// Nhập điểm trung bình của học sinh. Xuất ra học lực của học sinh đó
+// >= 9: Xuất sắc
+// 8 <= điểm < 9: giỏi
+// 6.5 <= điểm < 8: khá
+// 5 <= điểm < 6.5: trung bình
+// 3.5 <= điểm < 5: yếu
+// < 3.5: quá kém
+Console.WriteLine("Nhập điểm trung bình của học sinh:");
+string diemtb = Console.ReadLine();
+double fdiemtb = Convert.ToDouble(diemtb);
+if(fdiemtb >= 9) {
+    Console.WriteLine("Xuất sắc");
+} else if (fdiemtb < 9 && fdiemtb >= 8)
+// kết hợp 2 hoặc nhiều điều kiện
+// && => và
+// || => hoặc 
+// 8 <= diem < 9 (trong ngôn ngữ thực tế)
+// 8 <= diem && diem < 9 (trong lập trình)
+{
+    Console.WriteLine("Giỏi");
+} else if (fdiemtb >= 6.5 && fdiemtb < 8) {
+    Console.WriteLine("Khá");
+} else if (5 <= fdiemtb && fdiemtb < 6.5) {
+    Console.WriteLine("Trung bình");
+} else if (3.5 <= fdiemtb && fdiemtb < 5) {
+    Console.WriteLine("Yếu");
+} else {
+    Console.WriteLine("Quá kém"); 
+}
 
 #endregion
 
@@ -170,49 +170,97 @@ Console.WriteLine("Hello, World!");
 // else {}
 
 #region ví dụ về hàm switch...case
-// C1: dùng switch...case
-// Nhập số có trong khoảng từ 1 đến 10. Đọc số đó ra
-Console.WriteLine("Nhập số từ 1 đến 10");
-string number2 = Console.ReadLine();
-int fnumber2 = Convert.ToInt32(number2);
-switch (fnumber2)
-{
-    case 1:
-        Console.WriteLine("Số 1");
-        break;
-    case 2:
-        Console.WriteLine("Số 2");
-        break;
-    case 3:
-        Console.WriteLine("Số 3");
-        break;
-    case 4:
-        Console.WriteLine("Số 4");
-        break;
-    case 5:
-        Console.WriteLine("Số 5");
-        break;
-    case 6:
-        Console.WriteLine("Số 6");
-        break;
-    case 7:
-        Console.WriteLine("Số 7");
-        break;
-    case 8:
-        Console.WriteLine("Số 8");
-        break;
-    case 9:
-        Console.WriteLine("Số 9");
-        break;
-    default:
-        Console.WriteLine("Số 10");
-        break;
-}
+// // C1: dùng switch...case
+// // Nhập số có trong khoảng từ 1 đến 10. Đọc số đó ra
+// Console.WriteLine("Nhập số từ 1 đến 10");
+// string number2 = Console.ReadLine();
+// int fnumber2 = Convert.ToInt32(number2);
+// switch (fnumber2)
+// {
+//     case 1:
+//         Console.WriteLine("Số 1");
+//         break;
+//     case 2:
+//         Console.WriteLine("Số 2");
+//         break;
+//     case 3:
+//         Console.WriteLine("Số 3");
+//         break;
+//     case 4:
+//         Console.WriteLine("Số 4");
+//         break;
+//     case 5:
+//         Console.WriteLine("Số 5");
+//         break;
+//     case 6:
+//         Console.WriteLine("Số 6");
+//         break;
+//     case 7:
+//         Console.WriteLine("Số 7");
+//         break;
+//     case 8:
+//         Console.WriteLine("Số 8");
+//         break;
+//     case 9:
+//         Console.WriteLine("Số 9");
+//         break;
+//     default:
+//         Console.WriteLine("Số 10");
+//         break;
+// }
 
 
 // C2: switch expression
 
 #endregion
+
+// int num = -3;
+// if (num < 0)
+// {
+//     if (Math.Pow(num, 2) > 10)
+//     {
+//         Console.WriteLine("Bình phương của số âm lớn hơn 10");
+//     }
+//     else
+//     {
+//         Console.WriteLine("Bình phương của số âm nhỏ hơn hoặc bằng 10");
+//     }
+// }
+// else
+// {
+//     Console.WriteLine("Số không phải là số âm");
+// }
+
+// int num = 30;
+// if (num % 3 == 0)
+// {
+//     if (num % 5 == 0)
+//     {
+//         Console.WriteLine(num + " chia hết cho 3 và 5");
+//     }
+//     else
+//     {
+//         Console.WriteLine(num + " chia hết cho 3 nhưng không chia hết cho 5");
+//     }
+// }
+// else
+// {
+//     Console.WriteLine(num + " không chia hết cho 3");
+// }
+// // Đáp án mong muốn: 30 chia hết cho 3 và 5
+
+int a = 9;
+int b = 3;
+if (a >= b && Math.Pow(b, 2) == a)
+{
+    int result = (int)Math.Pow(b, 2) + a * 3;
+    Console.WriteLine("Kết quả là: " + result);
+}
+else
+{
+    Console.WriteLine("Điều kiện không thoả mãn");
+}
+// Đáp án mong muốn là 36
 
 
 
