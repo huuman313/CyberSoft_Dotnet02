@@ -1,0 +1,15 @@
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\test\baitap_session8\bin\Debug\net8.0\baitap_session8.exe
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\test\baitap_session8\bin\Debug\net8.0\baitap_session8.deps.json
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\test\baitap_session8\bin\Debug\net8.0\baitap_session8.runtimeconfig.json
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\test\baitap_session8\bin\Debug\net8.0\baitap_session8.dll
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\test\baitap_session8\bin\Debug\net8.0\baitap_session8.pdb
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\test\baitap_session8\obj\Debug\net8.0\baitap_session8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\test\baitap_session8\obj\Debug\net8.0\baitap_session8.AssemblyInfoInputs.cache
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\test\baitap_session8\obj\Debug\net8.0\baitap_session8.AssemblyInfo.cs
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\test\baitap_session8\obj\Debug\net8.0\baitap_session8.csproj.CoreCompileInputs.cache
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\test\baitap_session8\obj\Debug\net8.0\baitap_session8.sourcelink.json
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\test\baitap_session8\obj\Debug\net8.0\baitap_session8.dll
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\test\baitap_session8\obj\Debug\net8.0\refint\baitap_session8.dll
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\test\baitap_session8\obj\Debug\net8.0\baitap_session8.pdb
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\test\baitap_session8\obj\Debug\net8.0\baitap_session8.genruntimeconfig.cache
+D:\Ciber Soft\cyber_sharp\CyberSoft_Dotnet02\test\baitap_session8\obj\Debug\net8.0\ref\baitap_session8.dll
