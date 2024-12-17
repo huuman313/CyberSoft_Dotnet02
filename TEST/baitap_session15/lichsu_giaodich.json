@@ -1,0 +1,23 @@
+[
+  {
+    "SoThe": "Kh\u00F4ng \u00E1p d\u1EE5ng",
+    "SoTien": 100000,
+    "LoaiThanhToan": "Ti\u1EC1n m\u1EB7t",
+    "ThoiGian": "2024-12-17T20:07:05.0730475+07:00",
+    "KetQua": true
+  },
+  {
+    "SoThe": "123456",
+    "SoTien": 200000,
+    "LoaiThanhToan": "Th\u1EBB",
+    "ThoiGian": "2024-12-17T20:07:22.457438+07:00",
+    "KetQua": false
+  },
+  {
+    "SoThe": "123456",
+    "SoTien": 200000,
+    "LoaiThanhToan": "Th\u1EBB",
+    "ThoiGian": "2024-12-17T20:08:34.0556031+07:00",
+    "KetQua": true
+  }
+]
