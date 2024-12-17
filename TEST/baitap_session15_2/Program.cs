@@ -3,6 +3,7 @@
     private static void Main(string[] args)
     {
         Console.WriteLine("Hello, World!");
+        
         QuanLySanPham quanLySanPham = new QuanLySanPham();
         bool isRunning = true;
 
