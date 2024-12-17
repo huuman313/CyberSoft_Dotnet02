@@ -1,0 +1,16 @@
+[
+  {
+    "StudentID": "1",
+    "StudentName": "Nguyen Van A",
+    "MathScore": 8,
+    "LiteratureScore": 9,
+    "EnglishScore": 10
+  },
+  {
+    "StudentID": "2",
+    "StudentName": "Tran Van B",
+    "MathScore": 6,
+    "LiteratureScore": 7,
+    "EnglishScore": 8
+  }
+]
